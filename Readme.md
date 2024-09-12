@@ -1,5 +1,5 @@
 # Case Study: Random Graph Models vs. Real Networks 🌐
-Summary: [here](https://docs.google.com/presentation/d/e/2PACX-1vTtmqViUhvGfKv9l7vQ-CA0uiJAoVHsTx2HKNyalixFWNvg6azr8HUVg1jwZWhm1w/pub?start=false&loop=false&delayms=3000)
+(Summary: [here](https://docs.google.com/presentation/d/e/2PACX-1vTtmqViUhvGfKv9l7vQ-CA0uiJAoVHsTx2HKNyalixFWNvg6azr8HUVg1jwZWhm1w/pub?start=false&loop=false&delayms=3000))  
 Welcome to this exciting repository where I delve deep into the fascinating world of graph theory! 🎉 In this project, I've conducted a comprehensive analysis comparing two popular random graph models—the **ER (Erdős–Rényi) model** and the **BA (Barabási–Albert) model**—with real-world networks, such as the structure of Facebook's social graph. 📊
 
 ### Why This Study Matters 🧐
